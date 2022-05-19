@@ -1,0 +1,39 @@
+html {
+    font-size: 12px;
+  }
+  body {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  #heading {
+    background-color: black;
+    color: white;
+  }
+  img {
+    max-width: 40%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background-image: url("https://u.cubeupload.com/fparadise/OVOSoundowl2.png");
+    padding: 10px;
+    margin: 0;
+    color: white;
+  }
+  ul,
+  li {
+    list-style-type: none;
+  }
+  /*
+  #tribute-info {
+    background: #eee;
+  }
+  
